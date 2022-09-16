@@ -1,0 +1,9 @@
+com\ane\bean\OptStockResult.class
+com\ane\bean\WayBillInfoVo.class
+com\ane\bean\OperaSiteReachDto.class
+com\ane\bean\OperaSiteSendDto.class
+com\ane\bean\SiteSignDTO.class
+com\ane\bean\LoadCarDTO.class
+com\ane\utils\DateUtil.class
+com\ane\bean\UnloadCarDTO.class
+com\ane\Test1.class
